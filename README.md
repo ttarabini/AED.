@@ -1,2 +1,5 @@
 # AED.
-Dev.C++5.11
+autor: ttarabini
+Tobias Tarabini 
+213-423.8  
+Compilador visual studio
