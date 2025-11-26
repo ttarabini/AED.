@@ -1,0 +1,4 @@
+hello world!
+-----------------------
+process exited after 0.1020 seconds with return value 0
+presione una tecla para continuar . . .
